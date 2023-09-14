@@ -1,20 +1,22 @@
 CONVERSER: Few-Shot Conversational Dense Retrieval with Synthetic Data Generation
 ===
 [SIGDIAL 2023 paper](https://arxiv.org/abs/2309.06748)
+<img width="1092" alt="image" src="https://github.com/MiuLab/CONVERSER/assets/11765276/facee859-007f-4496-b042-26d4a4a437d4">
+
 
 ## Reference
 Please cite the following paper
 ```
-    @inproceedings{huang-etal-2022-plm,
-        title = "CONVERSER: Few-Shot Conversational Dense Retrieval With Synthetic Data Generation",
-        author = "Huang, Chao-Wei and Hsu, Chen-Yu and Hsu, Tsu-Yuan and Li, Chen-An and Chen, Yun-Nung",
-        booktitle = "Proceedings of the 24th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
-        month = sep,
-        year = "2023",
-        address = "Prague, Czech Republic",
-        publisher = "Association for Computational Linguistics",
-        url = "https://doi.org/10.48550/arXiv.2309.06748"
-    }
+@inproceedings{huang-etal-2022-plm,
+    title = "CONVERSER: Few-Shot Conversational Dense Retrieval With Synthetic Data Generation",
+    author = "Huang, Chao-Wei and Hsu, Chen-Yu and Hsu, Tsu-Yuan and Li, Chen-An and Chen, Yun-Nung",
+    booktitle = "Proceedings of the 24th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
+    month = sep,
+    year = "2023",
+    address = "Prague, Czech Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://doi.org/10.48550/arXiv.2309.06748"
+}
 ```
 
 ## Requirements
