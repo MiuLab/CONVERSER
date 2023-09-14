@@ -21,7 +21,8 @@ Please cite the following paper
 
 ## Requirements
 * Python >= 3.6
-* Install the required Python packages with `pip3 install -r requirements.txt`
+* Transformers
+* torch
 
 ## Datasets
 Our generated dataset can be found in the [google drive](https://drive.google.com/drive/folders/1z375Z5-3vNnB6Pi37I0u-P1BDDW_9kDB?usp=sharing)
