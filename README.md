@@ -7,16 +7,19 @@ CONVERSER: Few-Shot Conversational Dense Retrieval with Synthetic Data Generatio
 ## Reference
 Please cite the following paper
 ```
-@inproceedings{huang-etal-2022-plm,
-    title = "CONVERSER: Few-Shot Conversational Dense Retrieval With Synthetic Data Generation",
+@inproceedings{huang2023converser,
+    title = "{CONVERSER}: Few-shot Conversational Dense Retrieval with Synthetic Data Generation",
     author = "Huang, Chao-Wei and Hsu, Chen-Yu and Hsu, Tsu-Yuan and Li, Chen-An and Chen, Yun-Nung",
     booktitle = "Proceedings of the 24th Annual Meeting of the Special Interest Group on Discourse and Dialogue",
     month = sep,
     year = "2023",
-    address = "Prague, Czech Republic",
+    address = "Prague, Czechia",
     publisher = "Association for Computational Linguistics",
-    url = "https://doi.org/10.48550/arXiv.2309.06748"
+    url = "https://aclanthology.org/2023.sigdial-1.34",
+    doi = "10.18653/v1/2023.sigdial-1.34",
+    pages = "381--387"
 }
+
 ```
 
 ## Requirements
